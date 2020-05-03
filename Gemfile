@@ -5,3 +5,8 @@ gem "sinatra-contrib"
 gem "pry-byebug"
 gem "better_errors"
 gem "binding_of_caller"
+
+
+# Cloudinary
+
+gem 'dotenv-rails', groups: [:development, :test]
